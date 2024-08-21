@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello world ✨ I'm [Your Name] 
 
-<!--
-**jjmorenog620/jjmorenog620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mathematician working as a Quantitative Developer (DeFi). In my free time, I create open-source projects and write about financial mathematics, statistics, AI, and other related topics.
 
-Here are some ideas to get you started:
+### Currently, I am:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Working as:** Quantitative Developer
+🖥 **Coding in:** Python 🐍 and Rust 🦀
+✨ **Writing about:** [Your Current Writing Projects or Series]
+📚 **Reading:** [Your Current Book or Books]
+
+### Connect with me:
+
+- 🦜 **[Twitter](Your Twitter Link)**
+- 📸 **[Instagram](Your Instagram Link)**
+- 👩🏽‍💼 **[LinkedIn](Your LinkedIn Link)**
