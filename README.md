@@ -1,4 +1,4 @@
-# Hello world ✨ I'm [Your Name] 
+# Hello world 👋
 
 I am a mathematician working as a Quantitative Developer (DeFi). In my free time, I create open-source projects and write about financial mathematics, statistics, AI, and other related topics.
 
