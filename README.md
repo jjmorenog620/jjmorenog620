@@ -4,10 +4,10 @@ I am a mathematician working as a Quantitative Developer (DeFi). In my free time
 
 ### Currently, I am:
 
-🔭 **Working as:** Quantitative Developer
-🖥 **Coding in:** Python 🐍 and Rust 🦀
-✨ **Writing about:** [Your Current Writing Projects or Series]
-📚 **Reading:** [Your Current Book or Books]
+- 🔭 **Working as:** Quantitative Developer
+- 🖥 **Coding in:** Python 🐍 and Rust 🦀
+- ✨ **Writing about:** [Your Current Writing Projects or Series]
+- 📚 **Reading:** [Your Current Book or Books]
 
 ### Connect with me:
 
