@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I am a mathematician working as a Quantitative Developer (DeFi). When I'm not delving into the intricacies of financial markets, I contribute to open-source projects.
+I am a mathematician working as a Quantitative Developer (DeFi).
 
 ### What I'm Currently Focused On:
 
